@@ -1,16 +1,9 @@
 # desconto_loja_p1
 
-A new Flutter project.
+Prints da aplicação
 
-## Getting Started
+![image](https://github.com/FelipeValeriano21/P1---Desconto-de-Loja/assets/101677047/a83b23a4-8dcb-4792-8139-c73b584d456a)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/FelipeValeriano21/P1---Desconto-de-Loja/assets/101677047/f5fd7204-e171-4282-b249-a095a67ad978)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/FelipeValeriano21/P1---Desconto-de-Loja/assets/101677047/f1f6ab91-b966-4794-9453-73658986d08f)
